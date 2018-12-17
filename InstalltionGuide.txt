@@ -1,0 +1,32 @@
+1. Must be installed mozilaFirefox 49.0 version, NetBeans 8.1/NetBeans8.2 and JDK. 
+
+
+2. Now got to this link- https://github.com/SHOWROV11981/All-Project/StudentInformationSystem to download StudentInformationSystem.zip
+
+
+3. After installed FireFox 49.0, then open and click --> ads on option
+
+   click on searchbox, and search SQLITE Manager then click on "+" this sign to add SQLITE Manager.
+
+   After AdsOn this manager, go back this browser's HOME menue.
+
+
+4. Now click on Tools option and select SQLITE Manager. After select this option Now click on Connct Database and select StudentInfo.sql      Database Sheet from StudentInformationSystem file which you Download from_
+
+                              https://github.com/SHOWROV11981/All-Project/StudentInformationSystem
+
+  After this process your Database Sheet's Ready for view.
+
+
+5.  Now open NetBeans and click on OpenFolder option then select StudentInformationSystem and Run this project. 
+
+    Now enter Username and Password from Database User Table.
+
+    After entry all information now click on LOgIN Button and now success your entry.
+
+    
+    Now Use this Software and keep your all student storage on database.
+
+    
+
+---------------------------------------------------------------END--------------------------------------------------------------------
